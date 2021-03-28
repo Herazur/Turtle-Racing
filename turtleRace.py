@@ -50,7 +50,7 @@ def create_turtles(colors):
 def init_turtle():
     screen = turtle.Screen()
     screen.setup(WIDTH, HEIGHT)
-    screen.title('UWA Yarışçıları!')
+    screen.title('Kaplumbağa Yarışı!')
 
 racers = get_number_of_racers()
 init_turtle()
